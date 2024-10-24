@@ -1,7 +1,7 @@
 ## Hello, everybody! :wink:
 
-- :mortar_board: Estudante de Desenvolvimento de Sistemas ETEC Registro
-- :purple_heart: Apaixonado por Programação
+- :mortar_board: Estudante de Ciência da Computação
+
 <hr>
 <a href="https://github.com/Jhow1L/Jhow1L">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhow1L&layout=compact&langs_count=7&theme=dracula"/>
